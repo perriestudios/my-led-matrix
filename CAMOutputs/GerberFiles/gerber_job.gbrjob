@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-11T18:29:41Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PROJECT_shreshth"
+        },
+        "Owner": "Pranav Srinivas <pranavsr1@outlook.com>",
+        "Size": {
+            "X": 87.63,
+            "Y": 95.3208
+        }
+    }
+}
